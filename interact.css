@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+ul {
+	list-style: none;
+	float: right;
+	margin-right: 150px;
+	margin-top: 50px;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	padding-right: 35px;
+	padding-left: 35px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h1 {
+	font-size: 40px;
+	margin-left: 80px;
+	float: left;
+}
+
+a:hover {
+	color: white;
+	background: #6b328b;
+}
+
+a:focus {
+	margin: 0 5px;
+}
+
+li:hover {
+	
+}
+
+
+
+
+
+
+
+
+
